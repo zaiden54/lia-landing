@@ -1,0 +1,24 @@
+.description__text button {
+    width: 255px;
+    height: 55px;
+    
+    background: linear-gradient(90deg, #00C6FF 0%, #0072FF 100%);
+    box-shadow: 2px 9px 32px rgba(61, 166, 239, 0.3);
+    border-radius: 10px;
+    border: 0px;
+
+    color: white;
+}
+
+.description__text p {
+    width: 617px;
+    height: 75px;
+
+    text-align: left;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 125%;
+    color: white;
+}
